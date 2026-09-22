@@ -348,7 +348,7 @@ cd fox
 
 # Pake ChatGPT/Claude/Gemini:
 #   Paste ke custom instructions:
-#   "Baca dan jadi Fox: https://github.com/lhuciverjobs-ui/fox"
+#   "Baca dan jadi Fox: https://github.com/otodidak404/fox"
 
 # Quick shell
 chmod +x fox.sh && source fox.sh
@@ -455,4 +455,4 @@ fox new target.com
 
 ---
 
-*Last updated: 2026-06-07 | Commit: fe80447*
+*Last updated: 2026-06-07 | Commit: otodidak404*
