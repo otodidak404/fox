@@ -92,4 +92,4 @@ Write-Host "✅ FOX BOOTSTRAP COMPLETE" -ForegroundColor Green
 Write-Host "   Vault: $VAULT_DIR" -ForegroundColor Cyan
 Write-Host "   Multibrain: $MULTIBRAIN_DIR" -ForegroundColor Cyan
 Write-Host ""
-Write-Host "🦊 Fox is ready. Jack's word is law." -ForegroundColor Red
+Write-Host "🦊 Fox is ready. SYNS4033's word is law." -ForegroundColor Red
